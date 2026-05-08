@@ -1,0 +1,10 @@
+:root {
+    --bg-color: #010a13;         /* Fondo oscuro obsidiana */
+    --card-bg: #091428;          /* Azul marino profundo */
+    --text-color: #f0e6d2;       /* Texto pergamino/dorado pálido */
+    --primary-color: #c8aa6e;    /* Dorado mágico (Gold 3) */
+    --secondary-color: #0ac8b9;  /* Azul Hextech */
+    --border-color: #785a28;     /* Borde dorado apagado */
+    --font-main: 'Spiegel', 'Roboto', 'Segoe UI', sans-serif;
+    --font-title: 'Cinzel', serif;
+}
